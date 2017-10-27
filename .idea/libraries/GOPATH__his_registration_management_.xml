@@ -1,0 +1,90 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;his_registration_management&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../help" />
+      <root url="file://$PROJECT_DIR$/../helloSpark" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../his_medical_station" />
+      <root url="file://$PROJECT_DIR$/../his_sysmanagement" />
+      <root url="file://$PROJECT_DIR$/../his_nursestation_management" />
+      <root url="file://$PROJECT_DIR$/../ML_CF" />
+      <root url="file://$PROJECT_DIR$/../Spider" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0816" />
+      <root url="file://$PROJECT_DIR$/../his_material_management" />
+      <root url="file://$PROJECT_DIR$/../his_medicine_storage_management" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0815" />
+      <root url="file://$PROJECT_DIR$/../AdminLTE-2.4.0-rc" />
+      <root url="file://$PROJECT_DIR$/../lib" />
+      <root url="file://$PROJECT_DIR$/../goERP" />
+      <root url="file://$PROJECT_DIR$/../WiFi智能平台技术方案及报价" />
+      <root url="file://$PROJECT_DIR$/../his_logistics_management" />
+      <root url="file://$PROJECT_DIR$/../his_doctorstation_management" />
+      <root url="file://$PROJECT_DIR$/../zte-wuhan" />
+      <root url="file://$PROJECT_DIR$/../hellobeego1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../model" />
+      <root url="file://$PROJECT_DIR$/../zte" />
+      <root url="file://$PROJECT_DIR$/../his_medicine_room_management" />
+      <root url="file://$PROJECT_DIR$/../his_memeber_management" />
+      <root url="file://$PROJECT_DIR$/../VueServer" />
+      <root url="file://$PROJECT_DIR$/../ibus" />
+      <root url="file://$PROJECT_DIR$/../kl" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../his_inhospital_management" />
+      <root url="file://$PROJECT_DIR$/../hellobeego" />
+      <root url="file://$PROJECT_DIR$/../his_president_query" />
+      <root url="file://$PROJECT_DIR$/../his_outpatientcharges_management" />
+      <root url="file://$PROJECT_DIR$/../webtest" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../his_assessment_management" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../help" />
+      <root url="file://$PROJECT_DIR$/../helloSpark" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../his_medical_station" />
+      <root url="file://$PROJECT_DIR$/../his_sysmanagement" />
+      <root url="file://$PROJECT_DIR$/../his_nursestation_management" />
+      <root url="file://$PROJECT_DIR$/../ML_CF" />
+      <root url="file://$PROJECT_DIR$/../Spider" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0816" />
+      <root url="file://$PROJECT_DIR$/../his_material_management" />
+      <root url="file://$PROJECT_DIR$/../his_medicine_storage_management" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0815" />
+      <root url="file://$PROJECT_DIR$/../AdminLTE-2.4.0-rc" />
+      <root url="file://$PROJECT_DIR$/../lib" />
+      <root url="file://$PROJECT_DIR$/../goERP" />
+      <root url="file://$PROJECT_DIR$/../WiFi智能平台技术方案及报价" />
+      <root url="file://$PROJECT_DIR$/../his_logistics_management" />
+      <root url="file://$PROJECT_DIR$/../his_doctorstation_management" />
+      <root url="file://$PROJECT_DIR$/../zte-wuhan" />
+      <root url="file://$PROJECT_DIR$/../hellobeego1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../model" />
+      <root url="file://$PROJECT_DIR$/../zte" />
+      <root url="file://$PROJECT_DIR$/../his_medicine_room_management" />
+      <root url="file://$PROJECT_DIR$/../his_memeber_management" />
+      <root url="file://$PROJECT_DIR$/../VueServer" />
+      <root url="file://$PROJECT_DIR$/../ibus" />
+      <root url="file://$PROJECT_DIR$/../kl" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../his_inhospital_management" />
+      <root url="file://$PROJECT_DIR$/../hellobeego" />
+      <root url="file://$PROJECT_DIR$/../his_president_query" />
+      <root url="file://$PROJECT_DIR$/../his_outpatientcharges_management" />
+      <root url="file://$PROJECT_DIR$/../webtest" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../his_assessment_management" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
